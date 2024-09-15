@@ -1,0 +1,26 @@
+This is TODOLIST APPLICATION, below is the spesification and how to run it.
+
+Spesification 
+A. Backend / API Spesification
+1. Node.js
+2. MySql2
+3. Sequelize
+4. Cors
+5. Express
+
+B. Frontend
+1. React.js
+2. Axios
+3. Bulma.css
+4. React-Router-Dom
+
+How To Run 
+1. Create database "db_todolist" in phpmyadmin (i'm using mysql) or you can import the sql in the folder TO DO LIST APPLICATION.
+1. Open folder TO DO LIST APPLICATION in VS Code (i prefer).
+2. Then open the terminal (press ctrl + `).
+3. Change directory to folder Backend.
+4. Execute command 'nodemon index' (if you haven't installed nodemon globally, you can install it using command 'npm install -g nodemon').
+5. Now open new terminal and change directory to folder Frontend.
+6. Then execute command 'npm start'.
+7. After that, there is a link for the application (you can copy it or use ctrl + left click).
+8. Now you have your own To Do List App with React.js and Node.js.
